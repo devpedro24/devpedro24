@@ -13,9 +13,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/devpedro24/devpedro24/blob/output/snake.svg"
-       alt="snake" /></a>
-
+  <img src="https://github.com/devpedro24/devpedro24/blob/output/snake.svg" alt="snake"/>
 </div>
 
 
